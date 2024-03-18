@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\bin\Debug\net8.0\ShoppingChart.exe
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\bin\Debug\net8.0\ShoppingChart.deps.json
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\bin\Debug\net8.0\ShoppingChart.runtimeconfig.json
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\bin\Debug\net8.0\ShoppingChart.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\bin\Debug\net8.0\ShoppingChart.pdb
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.AssemblyInfo.cs
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\refint\ShoppingChart.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.pdb
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ShoppingChart.genruntimeconfig.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\ShoppingChart\ShoppingChart\obj\Debug\net8.0\ref\ShoppingChart.dll
